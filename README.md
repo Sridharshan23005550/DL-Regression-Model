@@ -6,7 +6,7 @@ To develop a neural network regression model for the given dataset.
 ## THEORY
 Regression problems involve predicting a continuous output variable based on input features. Traditional linear regression models often struggle with complex patterns in data. Neural networks, specifically feedforward neural networks, can capture these complex relationships by using multiple layers of neurons and activation functions. In this experiment, a neural network model is introduced with a single linear layer that learns the parameters weight and bias using gradient descent.
 
-## Neural Network Model
+## Neural Network Model 
 Include the neural network model diagram.
 
 ## DESIGN STEPS
@@ -40,9 +40,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name:
+### Name:SRIDHARSHAN D
 
-### Register Number:
+### Register Number:212223040205
 
 ```python
 class Model(nn.Module):
@@ -69,3 +69,6 @@ Include your sample input and output here
 
 ## RESULT
 Thus, a neural network regression model was successfully developed and trained using PyTorch.
+
+
+
